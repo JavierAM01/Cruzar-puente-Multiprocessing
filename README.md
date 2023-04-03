@@ -1,4 +1,6 @@
-# Practica 2
+# Cruce en un puente bidireccional - Multiprocessing
+
+Solo pueden pasar o bien personas por ambos lados, o bien coches por el norte, o bien coches por el sur.
 
 Primero definimos una serie de constantes, como el número de coches / personas que pueden estar a la vez en el puente, el número de coches / personas a generar, los tiempos que tardan en pasar, etc. 
 
