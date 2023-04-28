@@ -37,7 +37,8 @@ Como solución al problema utilizaremos la libreria multiprocessing de python. C
  - *Lock* y *Condition* para solucionar los problemas de inanición y secciones críticas. 
  - *Process* para la creación de procesos paralelos. 
 
-Para información más detallada sobre este módulo, podeís consultar la documentación oficial [aquí](https://docs.python.org/3/library/multiprocessing.html).  
+Para información más detallada sobre este módulo, podeís consultar la documentación oficial 
+<a href="https://docs.python.org/3/library/multiprocessing.html" target="_blank">aquí</a>.
 
 ## Variables globales <a name=id1.1></a>
 
