@@ -1,4 +1,6 @@
-# CRUZAR UN PUENTE BIDIRECCIONAL - MULTIPROCESSING
+# CRUZAR UN PUENTE BIDIRECCIONAL
+
+En este repositorio, te adentrarás en el mundo de la sincronización de procesos y la resolución de secciones críticas mediante el uso de semáforos. Exploraremos la implementación de un puente bidireccional donde solo se permite el paso de un tipo de transeúnte a la vez, evitando inanición y conflictos en el tráfico. Utilizando la potente librería de multiprocesamiento "multiprocessing", aprenderemos a gestionar de manera eficiente las secciones críticas y garantizar una comunicación fluida entre los procesos.
 
 # Índice
 
